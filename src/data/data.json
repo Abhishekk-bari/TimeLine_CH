@@ -6,17 +6,20 @@
           {
             "startDate": "2022-10-01 08:00",
             "endDate": "2022-10-01 18:30",
-            "userId": 24
+            "userId": 24,
+            "description": "Working on project A"
           },
           {
             "startDate": "2022-10-02 08:00",
             "endDate": "2022-10-02 18:30",
-            "userId": 23
+            "userId": 23,
+            "description": "Team meeting"
           },
           {
             "startDate": "2022-10-03 08:00",
             "endDate": "2022-10-03 18:30",
-            "userId": 24
+            "userId": 24,
+            "description": "Client presentation"
           },
           {
             "startDate": "2022-10-04 08:00",
